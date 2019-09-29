@@ -22,7 +22,37 @@ In this problem, you will be downloading some files from online, then creating a
     app.js
     hello.html
 
+    ```
+    cd ~
+    cd Desktop
+    cd pset2
+    mkdir assets
+    cd assets
+    mkdir images
+    cd images
+    touch amazon.jng
+    touch facebook.jng
+    touch google.jng
+    touch twitter.png
+    cd assets
+    mkdir memes
+    cd memes
+    touch meme.jpg
+    cd assets
+    mkdir src
+    cd src
+    touch foo.js
+    cd assets
+    touch app.js
+    touch hello.html
+
+
 4. Open `hello.html` using a code editor and change "SOME_CLASS" to "Full Stack: Nights & Weekends". Save it.
+
+cd Desktop
+cd assets
+code .
+
 
 5. You should have the following commits:
 - git initialized
